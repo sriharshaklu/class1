@@ -1,0 +1,7 @@
+Devops- Development Operations
+gitbash via github.com
+git init
+git status
+git commit
+git commit -m "hi"
+git add . 
